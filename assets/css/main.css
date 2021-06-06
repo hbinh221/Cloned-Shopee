@@ -587,6 +587,7 @@
 .header__cart-item-name{
     font-size: 1.4rem;
     font-weight: 500;
+    margin-top:5px;
     margin: 0;
     overflow: hidden;
     text-overflow: ellipsis;
